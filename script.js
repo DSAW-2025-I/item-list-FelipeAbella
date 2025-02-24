@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const li = document.createElement("li");
             li.innerHTML = `
                 ${item.name} x${item.quantity} - $${(item.price * item.quantity).toFixed(2)}
-                <button class="remove-item" data-name="${item.name}">❌</button>
+                <button class="remove-item" data-name="${item.name}">X</button>
             `;
 
             cartItems.appendChild(li);

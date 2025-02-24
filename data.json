@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name": "Waffle with Berries",
         "category": "Waffle",
+        "name": "Waffle with Berries",
         "price": 6.50,
         "images": {
             "thumbnail": "./assets/image-waffle-thumbnail.jpg",
@@ -13,8 +13,8 @@
     },
     {
         "id": 2,
-        "name": "Vanilla Bean Crème Brûlée",
         "category": "Crème Brûlée",
+        "name": "Vanilla Bean Crème Brûlée",
         "price": 7.00,
         "images": {
             "thumbnail": "./assets/image-creme-brulee-thumbnail.jpg",
@@ -25,8 +25,8 @@
     },
     {
         "id": 3,
-        "name": "Macaron Mix of Five",
         "category": "Macaron",
+        "name": "Macaron Mix of Five",
         "price": 8.00,
         "images": {
             "thumbnail": "./assets/image-macaron-thumbnail.jpg",
@@ -37,8 +37,8 @@
     },
     {
         "id": 4,
-        "name": "Classic Tiramisu",
         "category": "Tiramisu",
+        "name": "Classic Tiramisu",
         "price": 5.50,
         "images": {
             "thumbnail": "./assets/image-tiramisu-thumbnail.jpg",
@@ -49,8 +49,8 @@
     },
     {
         "id": 5,
-        "name": "Pistachio Baklava",
         "category": "Baklava",
+        "name": "Pistachio Baklava",
         "price": 4.00,
         "images": {
             "thumbnail": "./assets/image-baklava-thumbnail.jpg",
@@ -61,8 +61,8 @@
     },
     {
         "id": 6,
-        "name": "Lemon Meringue Pie",
         "category": "Pie",
+        "name": "Lemon Meringue Pie",
         "price": 5.00,
         "images": {
             "thumbnail": "./assets/image-meringue-thumbnail.jpg",
@@ -73,8 +73,8 @@
     },
     {
         "id": 7,
-        "name": "Red Velvet Cake",
         "category": "Cake",
+        "name": "Red Velvet Cake",
         "price": 4.50,
         "images": {
             "thumbnail": "./assets/image-cake-thumbnail.jpg",
@@ -85,8 +85,8 @@
     },
     {
         "id": 8,
-        "name": "Salted Caramel Brownie",
         "category": "Brownie",
+        "name": "Salted Caramel Brownie",
         "price": 4.50,
         "images": {
             "thumbnail": "./assets/image-brownie-thumbnail.jpg",
@@ -97,8 +97,8 @@
     },
     {
         "id": 9,
-        "name": "Vanilla Panna Cotta",
         "category": "Panna Cotta",
+        "name": "Vanilla Panna Cotta",
         "price": 6.50,
         "images": {
             "thumbnail": "./assets/image-panna-cotta-thumbnail.jpg",
