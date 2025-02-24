@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="screenshot.png" alt="Screenshot of solution">
+<img src="screenshot.jpeg" alt="Screenshot of solution">
 
 ### Links
 
