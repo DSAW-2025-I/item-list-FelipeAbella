@@ -33,4 +33,4 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://dsaw-2025-i.github.io/tailwind-bootstrap-FelipeAbella/
+- Solution URL: https://dsaw-2025-i.github.io/item-list-FelipeAbella/
